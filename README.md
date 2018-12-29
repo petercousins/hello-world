@@ -1,3 +1,6 @@
+
+![Hello World](https://github.com/petercousins/hello-world/blob/master/Hello%20World.png)
+
 # hello-world
 
 Everyone Needs one of these, so here is a default repo that contains some sample code for these specific coding languages:
