@@ -1,2 +1,8 @@
 # hello-world
-Everyone Needs one of these, Going to Create a few in multiple coding languages.
+
+# Everyone Needs one of these, so here is a default repo that contains some quick links for these specific coding languages:
+
+- Java
+- Spring Boot 
+- JavaScript
+- Angular
