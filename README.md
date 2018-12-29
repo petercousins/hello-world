@@ -1,8 +1,8 @@
 # hello-world
 
-Everyone Needs one of these, so here is a default repo that contains some quick links for these specific coding languages:
+Everyone Needs one of these, so here is a default repo that contains some sample code for these specific coding languages:
 
-## Java
-## Spring Boot 
-## JavaScript
-## Angular
+1. ## Java
+1. ## Spring Boot 
+1. ## JavaScript
+1. ## Angular
